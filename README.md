@@ -1,0 +1,2 @@
+# microservicecloud-config
+用于学习springcloud的分布式配置
